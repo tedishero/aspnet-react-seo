@@ -272,3 +272,5 @@ ModelManifest.xml
 Product/UIRegressionTests/test-results/
 /Product/Community.Portal/static/js/react
 /Product/Community.Portal/Client/coverage/
+
+/Answers/static/
