@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://wc-react-poc.azurewebsites.net/</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://wc-react-poc.azurewebsites.net/contact</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://wc-react-poc.azurewebsites.net/about</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+</urlset>

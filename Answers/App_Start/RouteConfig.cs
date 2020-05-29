@@ -22,13 +22,13 @@ namespace Answers
             routes.MapRoute(
                name: "About",
                url: "about",
-               defaults: new { controller = "Home", action = "About"}
+               defaults: new { controller = "About", action = "About"}
            );
 
             routes.MapRoute(
              name: "Contact",
              url: "contact",
-             defaults: new { controller = "Home", action = "About"}
+             defaults: new { controller = "Contact", action = "Contact" }
          );
         }
     }
